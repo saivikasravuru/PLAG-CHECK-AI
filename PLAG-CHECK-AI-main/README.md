@@ -1,10 +1,4 @@
 # PLAG-CHECK-AI
-
-
-
-https://github.com/Churanta/PLAG-CHECK-AI/assets/83538805/e02a635a-2268-4547-a46a-9f48ecf0daf1
-
-
 This is a Flask web application that serves as a Plagiarism Checker and AI Text Detection tool. It allows users to input a query and checks for plagiarism by comparing it with a pre-existing database. Additionally, it includes a feature to detect if the input text is AI-generated.
 
 ## How to Use
@@ -28,18 +22,6 @@ This is a Flask web application that serves as a Plagiarism Checker and AI Text 
 5. Enter your query in the input field and click the "Check Plagiarism and Detect AI Text" button.
 
 6. The application will display the plagiarism percentage, identified plagiarized texts, and whether the input text is AI-generated or not.
-
-## Video 
-
-
-https://github.com/Churanta/Plagiarism-Checker-and-AI-Text-Detection/assets/83538805/87841c2e-3c68-4936-b7ee-a437fceacad8
-
-
-https://github.com/Churanta/Plagiarism-Checker-and-AI-Text-Detection/assets/83538805/1b32fbce-c5cf-4d9c-ac2f-f9e6ca45b0ee
-
-
-
-
 ## Requirements
 
 - Python 3.x
