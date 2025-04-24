@@ -2,7 +2,8 @@
 This is a Flask web application that serves as a Plagiarism Checker and AI Text Detection tool. It allows users to input a query and checks for plagiarism by comparing it with a pre-existing database. Additionally, it includes a feature to detect if the input text is AI-generated.
 
 # images
-![plag_ai](https://github.com/user-attachments/assets/ca25bbf7-8854-45bb-8923-6bd2bf05955d)
+
+<img src="https://github.com/user-attachments/assets/ca25bbf7-8854-45bb-8923-6bd2bf05955d" alt="plag_ai" width="300">
 
 
 ## How to Use
