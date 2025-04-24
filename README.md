@@ -3,7 +3,9 @@ This is a Flask web application that serves as a Plagiarism Checker and AI Text 
 
 # images
 
-<img src="https://github.com/user-attachments/assets/ca25bbf7-8854-45bb-8923-6bd2bf05955d" alt="plag_ai" width="300">
+<img src="https://github.com/user-attachments/assets/ca25bbf7-8854-45bb-8923-6bd2bf05955d" alt="plag_ai" width="500" height="250">
+<img src="https://github.com/user-attachments/assets/155b9756-022a-44d0-a057-08d2d71532e3" alt="Screenshot" width="500" height="250">
+
 
 
 ## How to Use
