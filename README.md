@@ -18,7 +18,7 @@ This is a Flask web application that serves as a Plagiarism Checker and AI Text 
 
 2. Clone this repository to your local machine.
 
-3. Navigate to the project directory and run the following command to start the application:
+3. Navigate to the project directory and run the following command to start the application: 
 
    
    python app.py
