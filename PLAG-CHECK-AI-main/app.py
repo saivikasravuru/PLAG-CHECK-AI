@@ -9,7 +9,7 @@ app = Flask(__name__)
 ai_generated_threshold = 0.8
 ai_detection_threshold = 10  # AI Text detection threshold
 plagiarism_threshold = 10  # Plagiarism detection threshold
-
+  
 
 def calculate_ai_percentage(text):
     # Remove punctuation and numbers from the text
